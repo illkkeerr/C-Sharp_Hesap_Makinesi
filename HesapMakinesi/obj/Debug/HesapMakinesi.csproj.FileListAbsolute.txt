@@ -1,0 +1,22 @@
+C:\Users\DellPc\Desktop\HesapMakinesi\bin\Debug\BilimselHesapMakinesi.exe.config
+C:\Users\DellPc\Desktop\HesapMakinesi\bin\Debug\BilimselHesapMakinesi.exe
+C:\Users\DellPc\Desktop\HesapMakinesi\bin\Debug\BilimselHesapMakinesi.pdb
+C:\Users\DellPc\Desktop\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.AssemblyReference.cache
+C:\Users\DellPc\Desktop\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\DellPc\Desktop\HesapMakinesi\obj\Debug\HesapMakinesi.frmHesapMakinesi.resources
+C:\Users\DellPc\Desktop\HesapMakinesi\obj\Debug\BilimselHesapMakinesi.Properties.Resources.resources
+C:\Users\DellPc\Desktop\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.GenerateResource.cache
+C:\Users\DellPc\Desktop\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\DellPc\Desktop\HesapMakinesi\obj\Debug\BilimselHesapMakinesi.exe
+C:\Users\DellPc\Desktop\HesapMakinesi\obj\Debug\BilimselHesapMakinesi.pdb
+C:\Users\DellPc\Desktop\github deneme\HesapMakinesi\HesapMakinesi\bin\Debug\BilimselHesapMakinesi.exe.config
+C:\Users\DellPc\Desktop\github deneme\HesapMakinesi\HesapMakinesi\bin\Debug\BilimselHesapMakinesi.exe
+C:\Users\DellPc\Desktop\github deneme\HesapMakinesi\HesapMakinesi\bin\Debug\BilimselHesapMakinesi.pdb
+C:\Users\DellPc\Desktop\github deneme\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.AssemblyReference.cache
+C:\Users\DellPc\Desktop\github deneme\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\DellPc\Desktop\github deneme\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.frmHesapMakinesi.resources
+C:\Users\DellPc\Desktop\github deneme\HesapMakinesi\HesapMakinesi\obj\Debug\BilimselHesapMakinesi.Properties.Resources.resources
+C:\Users\DellPc\Desktop\github deneme\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.GenerateResource.cache
+C:\Users\DellPc\Desktop\github deneme\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\DellPc\Desktop\github deneme\HesapMakinesi\HesapMakinesi\obj\Debug\BilimselHesapMakinesi.exe
+C:\Users\DellPc\Desktop\github deneme\HesapMakinesi\HesapMakinesi\obj\Debug\BilimselHesapMakinesi.pdb
